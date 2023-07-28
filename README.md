@@ -20,8 +20,8 @@
 ### Where I've Been
 - ⚔️ USMC (0313, LAV Crewman)
 - 🧪 American Military University
-- 🌐 Reach Stretch Studios | Principal Security Researcher & Staff Red Team Engineer
-
+- 🌐 Reach Stretch Studios | General Manager
+- Supervisor - SOC - Information Security Analyst
 
 
 ### Where I'm Going 🧭
